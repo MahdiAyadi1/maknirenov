@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/maknirenov/static/css/main.9d5789f3.css",
-    "main.js": "/maknirenov/static/js/main.a9300613.js",
+    "main.js": "/maknirenov/static/js/main.30a95447.js",
     "static/media/img1.png": "/maknirenov/static/media/img1.70d8f0fdebabdc117a4d.png",
     "static/media/logo.png": "/maknirenov/static/media/logo.4659a5ad0642c6d54e04.png",
     "index.html": "/maknirenov/index.html",
     "main.9d5789f3.css.map": "/maknirenov/static/css/main.9d5789f3.css.map",
-    "main.a9300613.js.map": "/maknirenov/static/js/main.a9300613.js.map"
+    "main.30a95447.js.map": "/maknirenov/static/js/main.30a95447.js.map"
   },
   "entrypoints": [
     "static/css/main.9d5789f3.css",
-    "static/js/main.a9300613.js"
+    "static/js/main.30a95447.js"
   ]
 }
