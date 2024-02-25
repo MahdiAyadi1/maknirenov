@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/maknirenov/static/css/main.ceddcb45.css",
-    "main.js": "/maknirenov/static/js/main.83b0e746.js",
+    "main.css": "/maknirenov/static/css/main.81c1bd2d.css",
+    "main.js": "/maknirenov/static/js/main.e76b8ea0.js",
     "static/media/3.png": "/maknirenov/static/media/3.dc3a50687383ac1603d1.png",
     "static/media/1.png": "/maknirenov/static/media/1.ff7513d38958c07a833f.png",
     "static/media/4.png": "/maknirenov/static/media/4.3f78af854ae26243e1a6.png",
     "static/media/2.png": "/maknirenov/static/media/2.3fe9b0053bd0bfab833a.png",
     "static/media/img3.png": "/maknirenov/static/media/img3.6fe232f27e117d243462.png",
-    "static/media/img2.png": "/maknirenov/static/media/img2.607d51a1daa46550c585.png",
+    "static/media/img4.png": "/maknirenov/static/media/img4.6aadc1831c8207ba25ad.png",
     "static/media/img1.png": "/maknirenov/static/media/img1.70d8f0fdebabdc117a4d.png",
+    "static/media/img2.png": "/maknirenov/static/media/img2.607d51a1daa46550c585.png",
     "static/media/logo.png": "/maknirenov/static/media/logo.4659a5ad0642c6d54e04.png",
     "index.html": "/maknirenov/index.html",
-    "main.ceddcb45.css.map": "/maknirenov/static/css/main.ceddcb45.css.map",
-    "main.83b0e746.js.map": "/maknirenov/static/js/main.83b0e746.js.map"
+    "main.81c1bd2d.css.map": "/maknirenov/static/css/main.81c1bd2d.css.map",
+    "main.e76b8ea0.js.map": "/maknirenov/static/js/main.e76b8ea0.js.map"
   },
   "entrypoints": [
-    "static/css/main.ceddcb45.css",
-    "static/js/main.83b0e746.js"
+    "static/css/main.81c1bd2d.css",
+    "static/js/main.e76b8ea0.js"
   ]
 }
