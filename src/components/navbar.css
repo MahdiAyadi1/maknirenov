@@ -1,0 +1,37 @@
+.navbar--text {
+  margin-bottom: 0;
+  font-style: normal;
+  color: #fff;
+  /* font-weight: 350; */
+  letter-spacing: 2px;
+  transition: color 0.3s ease-in-out; /* Add transition for a smooth color change */
+  /* border: 0; */
+  /* border-radius: 3px; */
+  /* padding: 12px 20px 10px; */
+  font-weight: 300;
+  text-transform: uppercase;
+  font-size: 18px;
+  /* Uncomment the following lines if you want to set additional styling */
+  /* font-size: 60px; */
+  /* line-height: 68px; */
+  /* text-transform: uppercase; */
+}
+
+.navbar--text:hover {
+  color: #d4b21b; /* Specify the color you want on hover */
+}
+.navbar--title {
+  font-weight: 400;
+  font-style: normal;
+  color: #fff;
+  letter-spacing: 2px;
+  transition: color 0.3s ease-in-out;
+  font-size: 16px;
+}
+.bg-custom-color {
+  background-color: #2b3035;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Replace #yourDesiredColor with your color code or name */
+}
+/* .navbar--contact {
+  color: var(--orange);
+} */

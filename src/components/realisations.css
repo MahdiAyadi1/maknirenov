@@ -1,0 +1,33 @@
+.realisations--text {
+  font-size: 22px;
+  line-height: 28px;
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+}
+.realisations--title {
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 46px;
+  color: #212121;
+  text-align: center;
+  padding: 10px;
+}
+.btn-primary {
+  border: 0;
+  border-radius: 3px;
+  padding: 12px 20px 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  transition: 350ms;
+  font-size: 14px;
+  background: #ffb600;
+}
+.btn-primary:hover {
+  background: #000;
+}
+.horizontalLine {
+  border-bottom: 2px solid var(--orange);
+}

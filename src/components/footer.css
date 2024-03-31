@@ -1,0 +1,24 @@
+.footer--main {
+  color: white;
+  background-color: #2b3035;
+  padding: 50px;
+  font-weight: 100;
+  padding-bottom: 100px;
+  line-height: 2;
+}
+.footer--sub {
+  background-color: #ffb600;
+  padding: 11px;
+}
+.footer--container {
+  display: flex;
+  align-items: center;
+}
+.footer--title {
+  font-size: 18px;
+  padding-left: 15px;
+  text-transform: uppercase;
+  color: #fff;
+  border-left: 3px solid #ffb600;
+  line-height: 1.2;
+}

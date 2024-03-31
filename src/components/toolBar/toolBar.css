@@ -1,0 +1,16 @@
+.tool-bar {
+  position: fixed;
+  bottom: 0; /* Adjust the bottom property */
+  right: 50%; /* Adjust the right property */
+  z-index: 1020;
+  background-color: #f1f1f1;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: right; /* Align content to the right */
+
+  @media (min-width: 768px) {
+    text-align: right; /* Align content to the right on larger screens */
+    bottom: 0; /* Adjust the bottom property */
+    right: 0;
+  }
+}

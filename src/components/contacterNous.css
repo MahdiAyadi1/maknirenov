@@ -1,0 +1,29 @@
+.contacterNous--main {
+  background-color: #252525d6;
+  color: white;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 42px;
+  margin: 0 0 60px;
+  padding: 14px;
+  text-align: center;
+}
+.contacterNous--number {
+  color: #ffb600;
+}
+.btn-contact {
+  border: 0;
+  border-radius: 6px;
+  padding: 4px 20px 4px 20px;
+  margin: 4px;
+  /* padding: 4px; */
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  transition: 350ms;
+  font-size: 26px;
+  background: #ffb600;
+}
+.btn-contact:hover {
+  background: black;
+}

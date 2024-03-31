@@ -1,0 +1,10 @@
+.top-heading-text {
+  font-family: "Open Sans", sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased !important;
+  line-height: 26px;
+  font-size: 12px !important;
+  padding: 0;
+  font-weight: 500;
+  background-color: rgb(230, 230, 230);
+}

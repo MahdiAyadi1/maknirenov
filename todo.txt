@@ -1,0 +1,20 @@
+DONE    formulaire yeb3ath mail  ( fesable just lezem nel9a methode nlimiti biha number of form submission)                                                     
+DONE    zid lien fb  ( ez)
+DONE    bouton tenzel alih yedik direct tamel appel , w localisation zeda  ( nejm nzidha ken f mobile wala naamel window sghira position mte3ha absolute takad dima dhahra f coin imin louta )
+DONE    f les services il faut mentionner que le devis est gratuit ( nzidha f a propos w logo mizyen)
+DONE    plan satelite iwarik adresse ( hedhi hia mochkla , lezem ndabar api key mil google bech nejem namel map sem7a , w ken manejemtech n9oulelha raw b flous hkeya w ena manarach billing kifeh mich ikoun donc nejmou n7otou just bouton yedik lilha f google maps )
+galerie mta3 photo bech hia tejem tzid tsawer wa9t ma theb  ( lezem nel9a methode bech hia tejem tbadel f local , nejem nba7arha f partie hedhi le temps eli nel9alha hal , n9olelha nrak7ou tsawer maa badhna taw hata lin nraka7 partie hedhi khater fiha chwaya khedma )
+
+DONE    raka7 navbar 
+
+
+DONE    badel num tel 
+DONE    raka7 tsawer belbehi bech todhehrelha haja behya 
+DONE    3awed ekhdem partie les services ( taw fiha barcha ktiba w ne9sa couleur )
+logo entreprise ( nzidou w de pref n3awed nekhdmou )
+
+Form Validation 
+
+Form security 
+
+
